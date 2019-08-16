@@ -1,0 +1,10 @@
+# temporary files
+
+# Generated files
+#Files.wxs
+#Setup.wxs
+
+# Directories contain data specific to user or...
+# large files that dont need to be on drive or ...
+# Data files specific to test
+Testing/data
